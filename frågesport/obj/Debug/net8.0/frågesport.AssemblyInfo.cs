@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("frågesport")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b855f6c733e52191d04159a322212f7dd7477e45")]
 [assembly: System.Reflection.AssemblyProductAttribute("frågesport")]
 [assembly: System.Reflection.AssemblyTitleAttribute("frågesport")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
